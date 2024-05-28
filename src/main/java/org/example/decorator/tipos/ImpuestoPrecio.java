@@ -1,6 +1,5 @@
 package org.example.decorator.tipos;
 
-import org.example.decorator.base.PrecioDecorator;
 import org.example.decorator.base.PrecioService;
 
 public class ImpuestoPrecio extends PrecioDecorator {

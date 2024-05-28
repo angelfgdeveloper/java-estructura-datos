@@ -1,4 +1,6 @@
-package org.example.decorator.base;
+package org.example.decorator.tipos;
+
+import org.example.decorator.base.PrecioService;
 
 public abstract class PrecioDecorator implements PrecioService {
 
